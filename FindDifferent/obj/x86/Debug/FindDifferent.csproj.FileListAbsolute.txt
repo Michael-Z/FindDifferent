@@ -1,0 +1,10 @@
+F:\C#\FindDifferent\FindDifferent\bin\Debug\FindDifferent.exe
+F:\C#\FindDifferent\FindDifferent\bin\Debug\FindDifferent.pdb
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\FindDifferent.Properties.Resources.resources
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\FindDifferent.exe
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\FindDifferent.pdb
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\FindDifferent.FindDiff.resources
+F:\C#\FindDifferent\FindDifferent\obj\x86\Debug\FindDifferent.ShowDiff.resources
